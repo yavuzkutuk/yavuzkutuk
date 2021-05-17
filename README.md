@@ -2,8 +2,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Passionné par l’informatique et le marketing, depuis plus de 15 ans, j’évolue dans l’univers de la Tech. Autonome avec une transversalité technique et relationnelle, j’apprécie particulièrement la gestion de projet et le travail en équipe.
 
-17 années dans l’informatique | 7 ans de management d’équipe | 1 création d'entreprise
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
