@@ -1,16 +1,9 @@
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Passionné par l’informatique et le marketing, depuis plus de 15 ans, j’évolue dans l’univers de la Tech. Autonome avec une transversalité technique et relationnelle, j’apprécie particulièrement la gestion de projet et le travail en équipe.
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 <p align="center">
-<a href="https://www.linkedin.com/in/yavuzkutuk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.yavuz.fr" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-<a href="https://twitter.com/yavuzkutuk" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
+ <img width="100px" src="https://www.yavuz.fr/assets/images/logo-picto-yk.png" align="center" alt="Yavuz KUTUK" />
+ <h2 align="center">CTO & Lead Dev Senior</h2>
+ <p align="center"><a href="https://www.yavuz.fr" target="_blank">www.yavuz.fr</a> | <a href="https://twitter.com/yavuzkutuk?lang=fr" target="_blank">@yavuzkutuk</a></p>
 </p>
 
-<p>
-[![Yavuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=yavuzkutuk)](https://github.com/anuraghazra/github-readme-stats)
-
-  </p>
+| | | |
+| :--: | :--: | :--: |
+| <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yavuzkutuk&repo=github-readme-stats" /> | <img align="left" src="https://github-readme-stats.vercel.app/api/?username=yavuzkutuk&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark" /> | <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzkutuk&layout=compact" /> |
