@@ -9,3 +9,8 @@ Passionné par l’informatique et le marketing, depuis plus de 15 ans, j’é
 <a href="https://www.yavuz.fr" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 <a href="https://twitter.com/yavuzkutuk" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
+
+<p>
+[![Yavuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=yavuzkutuk)](https://github.com/anuraghazra/github-readme-stats)
+
+  </p>
