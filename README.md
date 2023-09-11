@@ -2,7 +2,7 @@
  <img width="100px" src="https://www.yavuz.fr/assets/images/logo.png" align="center" alt="Yavuz KUTUK" />
  <h2 align="center">CTO • Tech Lead • Formateur</h2>
  
-<p align="center"><a href="https://twitter.com/yavuzkutuk?lang=fr" target="_blank"><img src="https://www.yavuz.fr/assets/images/twitter-icon_24x24.png" width="32px"  /></a> <a href="https://drylead.agency" target="_blank"><img  src="https://www.yavuz.fr/assets/images/logo.png" width="48px" /></a> <a href="https://www.linkedin.com/in/yavuzkutuk/" target="_blank"><img src="https://www.yavuz.fr/assets/images/linkedin-icon_24x24.png" width="32px"  /></a>
+<p align="center"><a href="https://twitter.com/yavuzkutuk?lang=fr" target="_blank"><img src="https://www.yavuz.fr/assets/images/twitter-icon_24x24.png" width="32px"  /></a> <a href="https://www.linkedin.com/in/yavuzkutuk/" target="_blank"><img src="https://www.yavuz.fr/assets/images/linkedin-icon_24x24.png" width="32px"  /></a>
 <br/> <a href="https://www.yavuz.fr" target="_blank">www.yavuz.fr</a>
 </p>
 
