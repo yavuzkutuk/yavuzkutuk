@@ -1,4 +1,4 @@
-
+![Yavuz KUTUK](./yavuz.png)
 # Yavuz KUTUK
 ### CTO • Tech Lead • Formateur
 
