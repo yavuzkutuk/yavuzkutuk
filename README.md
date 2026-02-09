@@ -1,4 +1,4 @@
-![Yavuz KUTUK](./yavuz.png)
+![Yavuz KUTUK](./yavuz-v2.png)
 # Yavuz KUTUK
 ### Yavuz KUTUK – CTO | Tech Lead | Expert Web & Mobile
 
