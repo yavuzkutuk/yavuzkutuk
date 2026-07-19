@@ -1,4 +1,4 @@
-![Yavuz KUTUK — Architecte Logiciel & CTO Externalisé](./banner.jpg)
+![Yavuz KUTUK — Architecte Logiciel & CTO Externalisé](./banner-V9-new.jpg)
 
 20 ans à concevoir, développer et faire scaler des produits numériques. Je travaille avec des startups, des PME et des grands comptes, à la frontière entre l'architecture technique et la décision business : choisir la bonne stack, cadrer un périmètre réaliste, livrer, puis tenir la charge.
 
