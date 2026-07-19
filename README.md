@@ -1,28 +1,31 @@
-![Yavuz KUTUK](./yavuz-v2.png)
-# Yavuz KUTUK
-### Yavuz KUTUK – CTO | Tech Lead | Expert Web & Mobile
+![Yavuz KUTUK — Architecte Logiciel & CTO Externalisé](./banner.jpg)
 
-### Depuis maintenant plus de 20 ans,
-Avec plus de 20 ans d’expérience dans le développement web, mobile et la gestion de projets digitaux, je combine une expertise technique approfondie à une solide vision stratégique.
+20 ans à concevoir, développer et faire scaler des produits numériques. Je travaille avec des startups, des PME et des grands comptes, à la frontière entre l'architecture technique et la décision business : choisir la bonne stack, cadrer un périmètre réaliste, livrer, puis tenir la charge.
 
-💡 Fondateur et CTO, j’ai accompagné de nombreuses entreprises – startups, PME, grands comptes – dans la conception, le développement et la scalabilité de leurs solutions numériques.
-Spécialisé en Next.js, React, Node.js, Strapi, et Symfony, j’interviens également sur des sujets de performance, sécurité, UX et SEO.
+Fondateur de [Drylead](https://drylead.agency) et éditeur d'une suite de produits SaaS, j'interviens aussi comme CTO externe et formateur. Basé à Strasbourg, disponible en mission, conseil et formation.
 
-### Compétences clés
-- [x] Leadership technique et accompagnement d’équipes pluridisciplinaires
-- [x] Expertise fullstack JS (Next.js, React, Express) & PHP (Symfony)
-- [x] Intégration d’APIs, CRM, tunnels e-commerce & systèmes sur-mesure
-- [x] Veille active, innovation continue et approche orientée résultats
-- [x] Pédagogie, communication fluide et accompagnement client de bout en bout
+## Ce sur quoi j'interviens
 
+- **Direction technique** — cadrage, architecture, arbitrages build/buy, recrutement et montée en compétence d'équipes pluridisciplinaires
+- **Développement fullstack** — applications web et mobiles, du prototype à la mise en production
+- **Intégrations** — APIs tierces, CRM, tunnels e-commerce, systèmes sur-mesure
+- **Performance, sécurité, SEO** — audits techniques, Core Web Vitals, refontes SEO-safe
+- **Formation** — React Native, Next.js, Node.js auprès de cohortes RNCP niveau 5 et 6
 
-### Habilitation jury
+## Stack
 
-- [x] 🏅 Concepteur développeur d'applications (🗓️ **mai 2021 par DREETS Grand-Est**)
+**Front** Next.js · React · React Native / Expo · TypeScript
+**Back** Node.js · Express · Symfony · Strapi
+**Data** PostgreSQL · Prisma
+**Infra** Vercel · Scalingo · OVH · CI/CD
 
-- [x] 🏅 Développeur Web, Web Mobile (🗓️ **mars 2019 par DREETS Grand-Est**)
+## Habilitations jury
 
-### Liens
-- [kutuk.fr](https://kutuk.fr)
-- [Linkedin](https://fr.linkedin.com/in/yavuzkutuk)
-- [Twitter](https://twitter.com/yavuzkutuk)
+| Titre | Niveau | Depuis |
+|---|---|---|
+| Concepteur Développeur d'Applications (RNCP 37873) | Bac+3/4 | mai 2021 — DREETS Grand-Est |
+| Développeur Web & Web Mobile (RNCP 37674) | Bac+2 | mars 2019 — DREETS Grand-Est |
+
+## Me contacter
+
+[Site](https://kutuk.fr) · [LinkedIn](https://fr.linkedin.com/in/yavuzkutuk) · [Twitter/X](https://twitter.com/yavuzkutuk)
